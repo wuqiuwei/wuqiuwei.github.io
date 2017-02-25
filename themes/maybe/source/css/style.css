@@ -447,8 +447,9 @@ code {
     border-radius: 3px;
     white-space: pre-wrap;
     word-wrap: break-word;
-    width: 95%;
+    width: 98%;
     display: inline-block;
+    text-align: center;
 }
 
 .post .con pre code {
