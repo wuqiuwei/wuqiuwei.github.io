@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading《 怪诞行为学》
+title: Reading《怪诞行为学》
 tags: [index,note]
 date: 2017-02-25
 img: timg.jpeg
