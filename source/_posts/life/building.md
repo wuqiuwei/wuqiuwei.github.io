@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C端和B端产品架构
-tags: [index,life,note]
+tags: [index,note]
 date: 2017-02-26
 img: building2.jpg
 color: "#121a2a"

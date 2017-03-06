@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading《 怪诞行为学》
-tags: [index,life,note]
+tags: [index,note]
 date: 2017-02-25
 img: timg.jpeg
 color: "#faa755"

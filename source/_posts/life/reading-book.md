@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading《人类简史》
-tags: [index,life,note]
+tags: [index,note]
 date: 2017-02-05
 img: human.jpg
 ---
